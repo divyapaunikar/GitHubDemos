@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Adding line from local
 adding line from git
+=======
+Adding from github
+>>>>>>> ff0277ebf325c4e0e9bc8feb6c2f93c6c94fc5f9
